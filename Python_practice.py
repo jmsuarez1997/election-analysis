@@ -32,6 +32,7 @@ voting_data.append({"county":"Arapahoe","registered_voters":422829})
 voting_data.append({"county":"Denver","registered_voters":463353})
 voting_data.append({"county":"Jefferson","registered_voters":432438})
 voting_data.insert(2,{"county":"El Paso","registered_voters":461149})
+<<<<<<< HEAD
 
 print(voting_data)
 
@@ -78,3 +79,7 @@ for county, voters in counties_dict.items():
 for registered_voters, county in voting_data:
     print(f"{county} sdafshdkfjahsd {registered_voters} registered voters")
 
+=======
+voting_data.pop("Arapahoe")
+print(voting_data)
+>>>>>>> 7aaf67b2b365a4e367e65ccbb31ee115b26afd74
