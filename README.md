@@ -1,5 +1,6 @@
+
+![ElectionPhoto](https://raw.githubusercontent.com/jmsuarez1997/election-analysis/main/Resources/Election%20Photo.jpg)
 # Election Analysis
-Python election analysis
 ## Overview of Election Audit:
 A Colorado Board of Election employee wants to find a way to generate an election audit using python for a recent congressional election. This analysis will walk through a way to generate an election audit that can be used for other elections.
 
